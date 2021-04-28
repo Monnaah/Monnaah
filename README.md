@@ -1,4 +1,5 @@
 ### Hello, I'm Simone! 👋🏻
+
 - 💻 I’m currently working on data analysis and automations in Python.
 - 📊 I’m currently learning Python and Data Science at Let's Code School.
 
