@@ -1,6 +1,6 @@
 ### Hello, I'm Simone! 👋🏻
 
-- 💻 I’m currently working on data analysis and automations in Python.
+- 💻 I’m currently working on Data analysis and automations with Python.
 - 📊 I’m currently learning Python and Data Science at Let's Code School.
 
 <!--
@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on automations in Python 
+- 🔭 I’m currently working on automations with Python 
 - 🌱 I’m currently learning Python and Data Science
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
