@@ -3,6 +3,9 @@
 - 💻 I’m currently working on Data analysis and automations with Python.
 - 📊 I’m currently learning Python and Data Science at Let's Code School.
 
+
+https://www.buymeacoffee.com/moonnah
+
 <!--
 **Monnaah/Monnaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
